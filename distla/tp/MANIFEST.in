@@ -1,0 +1,2 @@
+recursive-include tp/worker_bin *
+recursive-include example *
