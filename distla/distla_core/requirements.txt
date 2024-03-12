@@ -17,6 +17,6 @@ jaxlib==0.1.67
 numpy==1.19.5
 pytest==6.2.1
 pytest-xdist==2.2.0
-scipy==1.6.3
+scipy==1.11.1
 yapf==0.26.0
 pandas==1.2.4
